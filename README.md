@@ -25,7 +25,7 @@
 ---
 
 ### 📬 Connect with Me
-* 💼 [LinkedIn](www.linkedin.com/in/basila-ml)
+* 💼 [LinkedIn](http://www.linkedin.com/in/basila-ml)
 * 📧 Email: 25n0234@iitb.ac.in
 * 📧 Email: barkkathulla057@gmail.com
 

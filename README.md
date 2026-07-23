@@ -35,3 +35,12 @@
 - 🌱 **I’m currently learning:** Mathematics of ML concepts 
 - 👯 **I’m looking to collaborate on:** Open-source ML and data visualization projects.
 - ⚡ **Fun fact:** I love finding the exact mathematical proofs behind machine learning loss functions!
+
+### 🛠️ Tech Stack & Keywords
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Mathematics** | Linear Algebra, Probability, Statistics, Calculus |
+| **AI / Machine Learning** | Supervised Learning, Deep Learning, Neural Networks |
+| **Data Science Tools** | Python, NumPy, Pandas, Matplotlib, Scikit-Learn |
+| **Databases & DevOps** | SQL, GitHub |
